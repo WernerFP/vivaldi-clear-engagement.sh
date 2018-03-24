@@ -1,5 +1,4 @@
 # vivaldi-clear-engagement.sh
-Bash script to clear engagement data in Vivaldi profiles
 
 ## Background
 The Chromium function "*[Site Engagement](https://www.chromium.org/developers/design-documents/site-engagement)*" stores continuously updated usage data. The collected data result in an expressive and detailed user profile. The function cannot be disabled.
