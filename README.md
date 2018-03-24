@@ -11,7 +11,7 @@ If you wish a clean browser profile, you should delete this data.
 
 The Vivaldi command "*Clear browser data*" does not delete engagement data. The only way to eliminate them is to call the Chromium function "*Clear browsing data*" in `chrome://settings/clearBrowserData`.
 
-There are some WebExtensions to clean up the browser profile (such as *Click&Clean*, *Clear Browsing Data*, *Forget It* etc.), but also do not delete the engagement data.
+There are some WebExtensions to clean up the browser profile (such as *Click&Clean*, *Clear Browsing Data*, *Forget It* etc.), but they also do not delete the engagement data.
 
 ## Bash Script
 The engagement data are stored in these files:<br/>
